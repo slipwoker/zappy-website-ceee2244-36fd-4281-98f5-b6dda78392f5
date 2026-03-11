@@ -1,45 +1,35 @@
-# אידרא - בית לקבוצות — Generative Engine Optimization Map
-
-> A comprehensive group facilitator training program that combines dynamic facilitation techniques with nature-based work and music. The 12-session course integrates personal and group development processes, teaching diverse methodologies and tools for group work while building mental resilience and awareness. The program emphasizes experiential learning alongside theoretical knowledge.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://-ceee2244.zappy5.app
+https://example.com
 הכשרת מנחי קבוצות ייחודית המשלבת טכניקות הנחיה דינמיות, עבודה בטבע ומוזיקה. קורס הנחיית קבוצות מקיף עם תהליכי התפתחות אישית וקבוצתית. הירשמו עכשיו!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-ceee2244.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-ceee2244.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-ceee2244.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About אידרא - בית לקבוצות
-A comprehensive group facilitator training program that combines dynamic facilitation techniques with nature-based work and music. The 12-session course integrates personal and group development processes, teaching diverse methodologies and tools for group work while building mental resilience and awareness. The program emphasizes experiential learning alongside theoretical knowledge.
-
-## Target Audience
-אנשים המעוניינים להנחות קבוצות
-
-## Industry
-חינוך והדרכה
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-ceee2244.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-ceee2244.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
